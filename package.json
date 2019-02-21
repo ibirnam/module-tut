@@ -1,0 +1,22 @@
+{
+  "name": "module-tut",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibirnam/module-tut.git"
+  },
+  "author": "Ian Birnam <ian3000@gmail.com> (https://github.com/ibirnam/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibirnam/module-tut/issues"
+  },
+  "homepage": "https://github.com/ibirnam/module-tut#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
