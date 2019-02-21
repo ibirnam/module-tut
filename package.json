@@ -18,5 +18,9 @@
   "homepage": "https://github.com/ibirnam/module-tut#readme",
   "engines": {
     "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
   }
 }
