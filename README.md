@@ -3,6 +3,10 @@ Number Formatter
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/ibirnam/module-tut.svg?branch=master)](https://travis-ci.org/ibirnam/module-tut)
+
+[![Coverage Status](https://coveralls.io/repos/github/ibirnam/module-tut/badge.svg?branch=master)](https://coveralls.io/github/ibirnam/module-tut?branch=master)
+
 ## Installation
 
   `npm install @ibirnam/number-formatter`
